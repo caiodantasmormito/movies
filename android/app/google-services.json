@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586856118253",
+    "project_id": "cronos-movies",
+    "storage_bucket": "cronos-movies.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586856118253:android:2ac9264e555bea754159e4",
+        "android_client_info": {
+          "package_name": "com.example.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586856118253-9ie3nbrd3kbe7q61ki1adenbl6oc80e5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movies",
+            "certificate_hash": "06a82d86281d8d893264ffb321905a7f98cd41d5"
+          }
+        },
+        {
+          "client_id": "586856118253-61q8rkudf92pj1o6l36tke3nl2k1kk8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBROIC0a6Amh3lQI_apmF4PvH0_q8PW_kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586856118253-61q8rkudf92pj1o6l36tke3nl2k1kk8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
